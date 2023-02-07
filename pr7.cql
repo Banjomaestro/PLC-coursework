@@ -1,0 +1,1 @@
+from F and G select F.all composition G.all where empty orderby alphabetical

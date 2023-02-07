@@ -1,0 +1,1 @@
+from P and Q select P.all rightJoin Q.all on last where empty orderby alphabetical

@@ -1,0 +1,1 @@
+from S and T select S.all matchPairs T.all where empty orderby alphabetical

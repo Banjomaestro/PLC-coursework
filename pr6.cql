@@ -1,0 +1,1 @@
+from P and Q and R and S and T select P.all conjunction Q.all conjunction R.all conjunction S.all conjunction T.all where empty orderby alphabetical
